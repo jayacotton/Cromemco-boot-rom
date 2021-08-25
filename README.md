@@ -4,7 +4,7 @@ This project documents the process I used to get an assembly file for the
 Cromemco 16fdc boot rom.
 
 The rom is welded to the p.c. board and to its rather difficult to read with the
-programmer.  I used the DM command to dump the rom to the console.  I had consol
+programmer.  I used the DM command to dump the rom to the console.  I had console
 logging on, so in the end I had a file with the dump in it.
 
 Then...  I wrote a really hasty program to read the dump file and convert it to
